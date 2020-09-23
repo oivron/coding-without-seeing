@@ -1,5 +1,7 @@
 # coding-without-seeing
 
-## Evaluation of different coding tools for accessibility.
+(NB Norwegian).
 
-Please see [Wiki](https://github.com/oivron/coding-without-seeing/wiki) for details (NB Norwegian).
+## Vurdering av ulike verktøy for programmering med tanke på universell utforming
+
+Se [Wiki](https://github.com/oivron/coding-without-seeing/wiki) for detaljer.
