@@ -2,6 +2,6 @@
 
 (NB Norwegian).
 
-## Vurdering av ulike verktøy for programmering med tanke på universell utforming
+## Kodeverktøy og universell utforming
 
 Se [Wiki](https://github.com/oivron/coding-without-seeing/wiki) for detaljer.
