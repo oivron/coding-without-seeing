@@ -1,7 +1,5 @@
 # coding-without-seeing
 
-(NB Norwegian).
-
 ## Evaluering av kodeverktøy
 
 Det brukes mange ulike verktøy for koding/programmering i skolen. I denne ressursen ser vi på hvordan noen av disse fungerer for elever med synssvekkelse eller blindhet.
