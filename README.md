@@ -7,6 +7,7 @@ Det brukes mange ulike verktøy for koding/programmering i skolen. I denne ressu
 Vi vurderer hvor universelt utformet de ulike verktøyene er. Vi ser på innbygget funksjonalitet, hvor godt de fungerer med skjermlesere og hvor godt de fungerer med skjermforstørring og høykontrast. Hvis ikke annet er oppgitt, gjelder resultatene for Windows.
 
 
+- [Arduino IDE](https://github.com/oivron/coding-without-seeing/wiki/Arduino-IDE)
 - [Blue-Bot](https://github.com/oivron/coding-without-seeing/wiki/Blue-Bot)
 - [IDLE](https://github.com/oivron/coding-without-seeing/wiki/IDLE)
 - [Jupyter Notebook og JupyterLab](https://github.com/oivron/coding-without-seeing/wiki/Jupyter-Notebook-og-JupyterLab)
