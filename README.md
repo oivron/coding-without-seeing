@@ -18,6 +18,7 @@ Vi vurderer hvor universelt utformet de ulike verktøyene er. Vi ser på innbygg
 - [Pythonista](https://github.com/oivron/coding-without-seeing/wiki/Pythonista)
 - [repl.it](https://github.com/oivron/coding-without-seeing/wiki/repl.it)
 - [Scratch](https://github.com/oivron/coding-without-seeing/wiki/Scratch)
+- [Spyder]()
 - [TextMate (macOS)](https://github.com/oivron/coding-without-seeing/wiki/TextMate-(macOS))
 - [trinket.io](https://github.com/oivron/coding-without-seeing/wiki/trinket.io)
 - [Visual Studio Code](https://github.com/oivron/coding-without-seeing/wiki/Visual-Studio-Code)
