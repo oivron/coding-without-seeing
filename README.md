@@ -14,6 +14,7 @@ Vi vurderer hvor universelt utformet de ulike verktøyene er. Vi ser på innbygg
 - [Microsoft MakeCode](https://github.com/oivron/coding-without-seeing/wiki/Microsoft-MakeCode)
 - [Mu](https://github.com/oivron/coding-without-seeing/wiki/Mu)
 - [Notepad++](https://github.com/oivron/coding-without-seeing/wiki/NotepadPlusPlus)
+- [PyDev](https://github.com/oivron/coding-without-seeing/wiki/PyDev)
 - [Python Editor](https://github.com/oivron/coding-without-seeing/wiki/Python-Editor)
 - [Pythonista](https://github.com/oivron/coding-without-seeing/wiki/Pythonista)
 - [repl.it](https://github.com/oivron/coding-without-seeing/wiki/repl.it)
