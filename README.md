@@ -4,8 +4,7 @@
 
 Det brukes mange ulike verktøy for koding/programmering i skolen. I denne ressursen ser vi på hvordan noen av disse fungerer for elever med synssvekkelse eller blindhet. Utvalget er gjort på grunnlag av tilbakemeldinger fra lærere i skolen, fra en [spørreundersøkelse Statped gjorde blant lærere høsten 2020](https://forms.office.com/Pages/AnalysisPage.aspx?id=Ih8GeDVQt0uvZPQ4XDo3Wf8Z7P5MEmBEoPOGguDBWWVUMzEzMEhCSUs5N1M3UFdIVkxGQ0VZNlNaOC4u&AnalyzerToken=6Dlfwq2iflLLbpWK7gl7zsgEFidO7VvL), og fra egne vurderinger av hvilke verktøy som kan være aktuelle.
 
-Vi vurderer hvor universelt utformet de ulike verktøyene er. Vi ser på innbygget funksjonalitet, hvor godt de fungerer med skjermlesere og hvor godt de fungerer med skjermforstørring og høykontrast. Hvis ikke annet er oppgitt, gjelder resultatene for Windows.
-
+Vi ser på hva slags funksjonalitet verktøyene har som denne elevgruppa kan dra nytte av (zoom-funksjon, utvalg av fargeoppsett og annet). Vi vurderer også hvor godt verktøyene fungerer med skjermleser. Hvis ikke annet er oppgitt, gjelder resultatene for Windows.
 
 - [Arduino IDE](https://github.com/oivron/coding-without-seeing/wiki/Arduino-IDE)
 - [Blue-Bot](https://github.com/oivron/coding-without-seeing/wiki/Blue-Bot)
