@@ -13,6 +13,7 @@ Vi ser på hva slags funksjonalitet verktøyene har som denne elevgruppa kan dra
 - [Microsoft MakeCode](https://github.com/oivron/coding-without-seeing/wiki/Microsoft-MakeCode)
 - [Mu](https://github.com/oivron/coding-without-seeing/wiki/Mu)
 - [Notepad++](https://github.com/oivron/coding-without-seeing/wiki/NotepadPlusPlus)
+- [PyCharm](https://github.com/oivron/coding-without-seeing/wiki/PyCharm)
 - [PyDev](https://github.com/oivron/coding-without-seeing/wiki/PyDev)
 - [Python Editor](https://github.com/oivron/coding-without-seeing/wiki/Python-Editor)
 - [Pythonista](https://github.com/oivron/coding-without-seeing/wiki/Pythonista)
