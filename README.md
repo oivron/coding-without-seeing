@@ -7,7 +7,6 @@ Det brukes mange ulike verktøy for koding/programmering i skolen. I denne ressu
 Vi ser på hva slags funksjonalitet verktøyene har som denne elevgruppa kan dra nytte av (zoom-funksjon, utvalg av fargeoppsett og annet). Vi vurderer også hvor godt verktøyene fungerer med skjermleser. Hvis ikke annet er oppgitt, gjelder resultatene for Windows.
 
 - [Arduino IDE](https://github.com/oivron/coding-without-seeing/wiki/Arduino-IDE)
-- [Blue-Bot](https://github.com/oivron/coding-without-seeing/wiki/Blue-Bot)
 - [IDLE](https://github.com/oivron/coding-without-seeing/wiki/IDLE)
 - [Jupyter Notebook og JupyterLab](https://github.com/oivron/coding-without-seeing/wiki/Jupyter-Notebook-og-JupyterLab)
 - [Microsoft MakeCode](https://github.com/oivron/coding-without-seeing/wiki/Microsoft-MakeCode)
