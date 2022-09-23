@@ -20,5 +20,6 @@ Vi ser på hva slags funksjonalitet verktøyene har som denne elevgruppa kan dra
 - [Scratch](https://github.com/oivron/coding-without-seeing/wiki/Scratch)
 - [Spyder](https://github.com/oivron/coding-without-seeing/wiki/Spyder)
 - [TextMate (macOS)](https://github.com/oivron/coding-without-seeing/wiki/TextMate-(macOS))
+- [Thonny](https://github.com/oivron/coding-without-seeing/wiki/Thonny)
 - [trinket.io](https://github.com/oivron/coding-without-seeing/wiki/trinket.io)
 - [Visual Studio Code](https://github.com/oivron/coding-without-seeing/wiki/Visual-Studio-Code)
